@@ -5,10 +5,13 @@ Here on my Github profile, you will find some projects of my own aiming to impro
 
 ## Let's connect 😄
 
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ruiz_ig77)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-ruiz-a56a1b30b/)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:ruizigor08@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/SEU_USUARIO)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_USUARIO)
+[![Email](https://img.shields.io/badge/-Send_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruizigor08@gmail.com)
 
+## Tools and Programing Languages 🖥️
 
-
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="40"/>
+<img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="40"/>
+<img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" width="40"/>
 
