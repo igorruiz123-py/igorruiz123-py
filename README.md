@@ -1,6 +1,6 @@
 ## Hi there! I am Igor Ruiz! 😁
 
-Tech Student... I am building my IT trajectory currently at São Paulo Faculty of Technology, in the Data Bases major.
+Tech Student and IT Intern at Ball Corporation, I am building my IT trajectory currently at São Paulo Faculty of Technology, in the Data Bases major.
 Here on my Github profile, you will find some projects of my own aiming to improve code skills and software developments. 👨‍💻
 
 ## Let's connect 😄
