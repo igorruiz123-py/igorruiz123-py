@@ -11,7 +11,7 @@ Here on my Github profile, you will find some projects of my own aiming to impro
 
 ## Tools and Programing Languages 🖥️
 
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="40"/>  <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="40"/>  <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" width="40"/> <img src="https://cdn-icons-png.flaticon.com/512/15466/15466163.png" width="40"/>  
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="40"/>  <img src="[https://cdn-icons-png.flaticon.com/512/6132/6132222.png](https://www.shutterstock.com/pt/image-vector/c-language-logo-simple-colours-used-2113921046?trackingId=b8e066d0-3f14-4494-8036-aa211b618287)" width="40"/> 
 
 
 
