@@ -16,11 +16,11 @@ Here on my Github profile, you will find some projects of my own aiming to impro
 
 ## 🖥️ Tools and Programing Languages I currently work with
 
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="40"/>  <img src="img/windows logo.png" width="40"/>  <img src="img/servicenow.png" width="40"/>  <img src="img/microsoft logo.png" width="40"/>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="40"/>  <img src="img/windows logo.png" width="40" height="50"/>  <img src="img/servicenow.png" width="50" height="50"/>  <img src="img/microsoft logo.png" width="40"/>
 
 
 ## 🖥️ Tools and Programing Languages I currently study with
 
-<img src="img/C logo.png" width="40"/>  <img src="img/ubuntu logo.png" width="40"/>  <img src="img/java logo.png" width="40"/>  <img src="img/mysql logo.png" width="40"/>  <img src="img/postgresql.png" width="40"/>  
+<img src="img/C logo.png" width="40"/>  <img src="img/ubuntu logo.png" width="40"/>  <img src="img/java logo.png" width="40"/>  <img src="img/mysql logo.png" width="40" height="50"/>  <img src="img/postgresql.png" width="40" height="50"/>  
 
 
