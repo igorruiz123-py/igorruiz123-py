@@ -1,6 +1,6 @@
 ## Hi there! I am Igor Ruiz! 😁
 
-Cybersecurity student at Itajubá Federal University (Brazil).
+Cybersecurity student at Federal University of Itajuba (Brazil).
 
 I am building my professional and academic life in the Cybersecurity field. I mainly focus in my studies on Software Development in low level with C/C++, Computer Networking, Networking Programing with Sockets, DevSecOps, Operating Systems with Linux, Cloud Security, Secure Comunication Protocols, Certificates and Cryptography and last but not least DataBases and how to protect them.  
  
