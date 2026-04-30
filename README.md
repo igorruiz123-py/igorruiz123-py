@@ -4,6 +4,8 @@ Cyber Security student at Federal University of Itajuba (Brazil).
 
 Here on my Github profile, you will find some projects of my own aiming to improve coding skills and software development. 👨‍💻
 
+<img align="center" alt="Hacking GIF" width="340" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" />
+
 ## Let's connect 😄
 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ruiz_ig77)
