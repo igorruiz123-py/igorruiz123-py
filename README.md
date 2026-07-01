@@ -1,10 +1,31 @@
-## Hi there! I am Igor Ruiz! 😁
+<h1>Hi 👋, I'm Igor Ruiz</h1>
+<p>A passionate Cloud Infraestructure assistant and Cybersecurity student from Brazil</p>
 
-Cyber Security student at Federal University of Itajuba (Brazil).
+### Academic Profile:
+
+* Bachelor's Degree in Cybersecurity at [Federal University of Itajubá](https://unifei.edu.br/)
+* High School Degree at [Federal Institute of são Paulo](https://www.ifsp.edu.br/)
+
+### Professional Profile:
+
+* Cloud Infraestructure Assitant at [Contato Seguro](https://www.contatoseguro.com.br/) (Currently)
+* Information Technology Intern at [Ball Corporation](https://www.ball.com/)
+
+### About me
+
+I aim to build my career at Cloud Computing and Computer Network, always focusing on scalable solutions and operational excellence.
+
+I like to understand how computers and softwares really work and how I can through Computer Science solve problems.  
 
 Here on my Github profile, you will find some projects of my own aiming to improve coding skills and software development. 👨‍💻
 
-<img align="center" alt="Hacking GIF" width="340" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" />
+<h2>🚀 Languages and Tools I Use</h2>
+<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 
 ## Let's connect 😄
 
