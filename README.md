@@ -13,7 +13,7 @@
 
 ### About me
 
-I aim to build my career at Cloud Computing and Computer Network, always focusing on scalable solutions and operational excellence.
+I aim to build my career at Cloud Computing and Computer Networking, always focusing on scalable solutions and operational excellence.
 
 I like to understand how computers and softwares really work and how I can through Computer Science solve problems.  
 
