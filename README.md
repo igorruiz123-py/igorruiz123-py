@@ -1,15 +1,4 @@
 <h1>Hi 👋, I'm Igor Ruiz</h1>
-<p>A passionate Cloud Infraestructure assistant and Cybersecurity student from Brazil</p>
-
-### Academic Profile:
-
-* Bachelor's Degree in Cybersecurity at [Federal University of Itajubá](https://unifei.edu.br/)
-* High School Degree at [Federal Institute of são Paulo](https://www.ifsp.edu.br/)
-
-### Professional Profile:
-
-* Cloud Infraestructure Assitant at [Contato Seguro](https://www.contatoseguro.com.br/) (Currently)
-* Information Technology Intern at [Ball Corporation](https://www.ball.com/)
 
 ### About me
 
